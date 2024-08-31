@@ -1,7 +1,9 @@
 How can you start this app :
 ----------------------------------------
-npm install
-npm run dev
+npm install  
+
+npm run dev  
+
 ----------------------------------------
 
 Approach:

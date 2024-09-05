@@ -18,5 +18,5 @@ When you first land on webpage I want to display only Food Truck entries, they s
 
 To provide more details I have added accordion feature for each food truck entries. 
  
-I have added search feature for food truck. You search your favorite food and list of food trucks sells will display.
+I have added search feature for food truck. You search your favorite food and list of food trucks will display.
 
